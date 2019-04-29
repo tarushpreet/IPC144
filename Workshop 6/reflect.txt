@@ -1,0 +1,13 @@
+Student name - Sahul Narang
+Student number- 136560166
+Student email- snarang3@myseneca.ca
+Workshop 6
+Reflect section
+
+Answer 1- Function is a group of statements that together perform a task. They consist of header and a body which are declared outside main function.
+	  Functions are needed in each language because they allow us to reuse the code instead of rewriting it.
+
+Answer 2- For addPositive and subtractPositive functions, modularity is done by by breaking steps of addition and subtraction in different functions and also used if-else conditioning statements. Reusability is done whenever the main function demands any addition or subtraction, we call these function by call by value or call by reference method.
+
+Answer 3- Two ways of sending and receiving data back to and from function is by - call by value and call by reference.
+	  In this workshop we used call by value method to send and recieve data from functions.

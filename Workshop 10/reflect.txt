@@ -1,0 +1,2 @@
+1> Adding null character is solution because it is standard way of representing strings in C.
+2> It can cause the buffer to overflow.
